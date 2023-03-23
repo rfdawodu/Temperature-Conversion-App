@@ -53,7 +53,7 @@ label {
   visibility: hidden;
   justify-items: flex-end;
 }
-@media (max-width: 767px) {
+@media (max-width: 680px) {
   .header {
     margin-top: 0.5rem;
     position: absolute;
