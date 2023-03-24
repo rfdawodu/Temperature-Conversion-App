@@ -11,7 +11,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <div className="App">
-      <h1>Temperature converter website</h1>
+      <h1>Temperature converter App</h1>
       <div className="materials"></div>
       <Header />
       <Inputs />
