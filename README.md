@@ -1,6 +1,6 @@
 # Temperature Conversion App
 
-This is a temperature App which make a conversion from Farhahent to celsius and vice vecer A mobile version inclusive
+This is a temperature App which make a conversion from Farhaheint to celsius and vice versa A mobile version inclusive
 
 # What you need to know
 
